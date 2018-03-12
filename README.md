@@ -1,14 +1,15 @@
 # Information Student
-* Mã số sinh viên: 1560633
-* Họ tên: Đoàn Minh Tuấn
-* Lớp: 15CK3
+* Student code: 1560633
+* Full name: Đoàn Minh Tuấn
+* Class: 15CK3
 * Email: 1560633@student.hcmus.edu.vn
-* Điện thoại: 01633538588
-* Link facebook cá nhân: fb.com/dmtuan10597
+* Phone: 01633538588
+* Facebook: fb.com/dmtuan10597
 
-## Thời khóa biểu học tập
-| Tiết/Thứ | Thứ hai | Thứ ba | Thứ tư | Thứ năm |
-|----------|---------|--------|--------|---------|
-|          |         |        |        |         |
-|          |         |        |        |         |
-|          |         |        |        |         |
+## Schedule
+|          |      Thứ ba     |  Thứ tư      |  Thứ năm  |  Thứ sáu     |
+|----------|-----------------|--------------|-----------|--------------|
+|   1-3    |                 | DV HDH Linux |           | Tư tưởng HCM |
+|   4-6    |                 | TKHT mạng    | PTUDCSDL2 | Pháp luật ĐC |
+|   7-9    |                 |              |           |              |
+|  10-12   | Lập trình web 2 |              |           |              |
